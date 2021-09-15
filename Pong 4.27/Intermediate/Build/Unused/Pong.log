@@ -1,0 +1,17 @@
+﻿  Parsing headers for PongEditor
+    Running UnrealHeaderTool "C:\Users\admin\Downloads\Pong 4.27\Pong.uproject" "C:\Users\admin\Downloads\Pong 4.27\Intermediate\Build\Win64\PongEditor\Development\PongEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\admin\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for PongEditor in 3.5767884 seconds
+  Building PongEditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 12 processes...
+    [1/6] Pong.init.gen.cpp
+    [2/6] PongGameMode.cpp
+    [3/6] PongGameMode.gen.cpp
+    [4/6] UE4Editor-Pong-0020.lib
+       Creating library C:\Users\admin\Downloads\Pong 4.27\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-0020.lib and object C:\Users\admin\Downloads\Pong 4.27\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-0020.exp
+    [5/6] UE4Editor-Pong-0020.dll
+       Creating library C:\Users\admin\Downloads\Pong 4.27\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-0020.suppressed.lib and object C:\Users\admin\Downloads\Pong 4.27\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-0020.suppressed.exp
+    [6/6] PongEditor.target
+  Total time in Parallel executor: 1.52 seconds
+  Total execution time: 5.92 seconds

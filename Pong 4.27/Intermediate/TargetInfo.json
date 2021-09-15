@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Pong",
+			"Path": "C:\\Users\\admin\\Downloads\\Pong 4.27\\Source\\Pong.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PongEditor",
+			"Path": "C:\\Users\\admin\\Downloads\\Pong 4.27\\Source\\PongEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
